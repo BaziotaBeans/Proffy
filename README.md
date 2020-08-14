@@ -1,22 +1,22 @@
 # PROFFY 
 
 ## 🚀 Project Made in Next Level Week #2 by Roecketseat 💜
-###### 🚀 Visite now The oficial site of [Roecketseat] (https://rocketseat.com.br/).
-## 🔥 Instructor: Mayk Brito
-    - @github/maykbrito
+###### 🚀 Visite now The oficial site of [Roecketseat](https://rocketseat.com.br/).
+## 🔥 Instructor: Mayk Brito 
+@github/maykbrito
 ## 📌 Description:
 The proffy system made to connect teachers to students...
 It's still in beta...
 ## 🎴 Layout
 
 ## 💻 Technologies ❤🎈
-- [Javascript] (https://www.javascript.com/)
-- [Express] (https://expressjs.com/)
-- [HTML5] (https://www.w3schools.com/html/)
-- [Nunjucks] (https://mozilla.github.io/nunjucks/)
-- [CSS3] (https://www.w3schools.com/css/)
-- [NodeJS] (https://nodejs.org/en/)
-- [sqlite-async] (https://www.npmjs.com/package/sqlite-async)
+- [Javascript](https://www.javascript.com/)
+- [Express](https://expressjs.com/)
+- [HTML5](https://www.w3schools.com/html/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [CSS3](https://www.w3schools.com/css/)
+- [NodeJS](https://nodejs.org/en/)
+- [sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
 ## 🚀 Features
 - Website to sign up teachers
