@@ -1,7 +1,7 @@
 # PROFFY 
 
-## 🚀 Project Made in Next Level Week #2 by Roecketseat 💜
-###### 🚀 Visite now The oficial site of [Roecketseat](https://rocketseat.com.br/).
+## 🚀 Project Made in Next Level Week #2 by Rocketseat 💜
+###### 🚀 Visite now The oficial site of [Rocketseat](https://rocketseat.com.br/).
 ## 🔥 Instructor: Mayk Brito 
 @github/maykbrito
 ## 📌 Description:
