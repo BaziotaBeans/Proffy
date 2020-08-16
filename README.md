@@ -7,7 +7,7 @@
 - [Layout](#flower_playing_cards-layout)
 - [Technologies](#laptop-tecnologies)
 - Features
-- [How to run](#construction_worker-how-to-run)
+- [How to run](Proffy#construction_worker-how-to-run)
 - Issues
 - [License](#license)
 ## :fire: Instructor
