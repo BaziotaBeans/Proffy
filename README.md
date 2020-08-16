@@ -2,6 +2,14 @@
 
 ## 🚀 Project Made in Next Level Week #2 by Rocketseat 💜
 ###### 🚀 Visite now The oficial site of [Rocketseat](https://rocketseat.com.br/).
+## 📌 Table of Contents
+- Instructor
+- Layout
+- Technologies
+- Features
+- How to run
+- Issues
+- License
 ## 🔥 Instructor: Mayk Brito 
 @github/maykbrito
 ## 📌 Description:
