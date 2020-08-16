@@ -3,13 +3,13 @@
 ## 🚀 Project Made in Next Level Week #2 by Rocketseat 💜
 ###### 🚀 Visite now The oficial site of [Rocketseat](https://rocketseat.com.br/).
 ## 📌 Table of Contents
-- [Instructor](#-instructor)
+- [Instructor](#fire-instructor)
 - [Layout](#flower_playing_cards-layout)
 - [Technologies](#laptop-tecnologies)
 - Features
 - [How to run](#construction_worker-how-to-run)
 - Issues
-- [License](#license)
+- [License](#license-)
 ## :fire: Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
