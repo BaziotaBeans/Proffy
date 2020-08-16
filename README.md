@@ -3,7 +3,7 @@
 ## 🚀 Project Made in Next Level Week #2 by Rocketseat 💜
 ###### 🚀 Visite now The oficial site of [Rocketseat](https://rocketseat.com.br/).
 ## 📌 Table of Contents
-- [Instructor](#fire-instructor)
+- [Instructor](#:fire:-instructor)
 - [Layout](#flower_playing_cards-layout)
 - [Technologies](#laptop-tecnologies)
 - Features
