@@ -6,7 +6,7 @@
 - [Instructor](#fire-instructor)
 - [Description](#pushpin-description)
 - [Layout](#flower_playing_cards-layout)
-- [Technologies](#computer-tecnologies)
+- [Technologies](#computer-technologies)
 - [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
 - [Issues](#heart_eyes-issues)
