@@ -6,21 +6,21 @@
 - [Instructor](#fire-instructor)
 - [Description](#pushpin-description)
 - [Layout](#flower_playing_cards-layout)
-- [Technologies](#laptop-tecnologies)
-- [Features](#Rocket-features)
+- [Technologies](#computer-tecnologies)
+- [Features](#rocket-features)
 - [How to run](#construction_worker-how-to-run)
 - [Issues](#heart_eyes-issues)
 - [License](#closed_book-license)
 ## :fire: Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
-## 📌 Description
+## :pushpin: Description
 The proffy system made to connect teachers to students...
 It's still in beta...
-## 🎴 Layout
+## :flower_playing_cards: Layout
 ![image](https://user-images.githubusercontent.com/48324076/90287234-565ea200-de6f-11ea-8ea6-d892cc70cfac.png)
 
-## 💻 Technologies ❤🎈
+## :computer: Technologies 
 - [Javascript](https://www.javascript.com/)
 - [Express](https://expressjs.com/)
 - [HTML5](https://www.w3schools.com/html/)
@@ -29,11 +29,11 @@ It's still in beta...
 - [NodeJS](https://nodejs.org/en/)
 - [sqlite-async](https://www.npmjs.com/package/sqlite-async)
 
-## 🚀 Features
+## :rocket: Features
 - Website to sign up teachers
 - connect all teachers with students redirecting on whatsapp
 
-## 👷 How to run
+## :construction_worker: How to run
 
 ```
 # Clone
