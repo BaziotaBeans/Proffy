@@ -9,7 +9,7 @@
 - Features
 - How to run
 - Issues
-- License
+- [License](#📕license)
 ## 🔥 Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
