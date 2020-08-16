@@ -9,12 +9,12 @@
 - [Technologies](#laptop-tecnologies)
 - [Features](#Rocket-features)
 - [How to run](#construction_worker-how-to-run)
-- [Issues](#smiling_face_with_Heart_eyes-issues)
+- [Issues](#heart_eyes-issues)
 - [License](#closed_book-license)
 ## :fire: Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
-## 📌 Description:
+## 📌 Description
 The proffy system made to connect teachers to students...
 It's still in beta...
 ## 🎴 Layout
@@ -51,11 +51,11 @@ $ npm run dev
 
 ```
 
-## 😍 Issues
+## :heart_eyes: Issues
 
 Feel free to tinker with the project, change it your way, remembering that it is still in the beta phase ...
 
-## 📕 License
+## :closed_book: License
 
 Released in 2020 📕 License
 
