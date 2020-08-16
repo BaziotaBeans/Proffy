@@ -54,7 +54,7 @@ $ npm run dev
 
 Feel free to tinker with the project, change it your way, remembering that it is still in the beta phase ...
 
-## License
+## 📕 License
 
 Released in 2020 📕 License
 
