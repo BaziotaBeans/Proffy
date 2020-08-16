@@ -10,7 +10,7 @@
 - [How to run](#construction_worker-how-to-run)
 - Issues
 - [License](#license)
-## 🔥 Instructor
+## :fire: Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
 ## 📌 Description:
