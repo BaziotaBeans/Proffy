@@ -10,8 +10,9 @@
 - How to run
 - Issues
 - License
-## 🔥 Instructor: Mayk Brito 
-@maykbrito
+## 🔥 Instructor
+Mayk Brito 
+[@maykbrito](https://github.com/maykbrito)
 ## 📌 Description:
 The proffy system made to connect teachers to students...
 It's still in beta...
