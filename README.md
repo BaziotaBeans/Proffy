@@ -4,12 +4,13 @@
 ###### 🚀 Visite now The oficial site of [Rocketseat](https://rocketseat.com.br/).
 ## 📌 Table of Contents
 - [Instructor](#fire-instructor)
+- [Description](#pushpin-description)
 - [Layout](#flower_playing_cards-layout)
 - [Technologies](#laptop-tecnologies)
-- Features
+- [Features](#Rocket-features)
 - [How to run](#construction_worker-how-to-run)
-- Issues
-- [License](#license-)
+- [Issues](#smiling_face_with_Heart_eyes-issues)
+- [License](#closed_book-license)
 ## :fire: Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
@@ -54,7 +55,7 @@ $ npm run dev
 
 Feel free to tinker with the project, change it your way, remembering that it is still in the beta phase ...
 
-## License
+## 📕 License
 
 Released in 2020 📕 License
 
