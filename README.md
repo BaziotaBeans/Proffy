@@ -9,7 +9,7 @@
 - Features
 - [How to run](##construction_worker-how-to-run)
 - Issues
-- [License](##license)
+- [License](#license)
 ## 🔥 Instructor
 Mayk Brito 
 [@maykbrito](https://github.com/maykbrito)
