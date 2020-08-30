@@ -61,4 +61,4 @@ Released in 2020 📕 License
 
 Made with ❤ by [Fábio Baziota] 🚀.
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you! 
